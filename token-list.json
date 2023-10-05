@@ -1,0 +1,41 @@
+{
+  "name": "ReDeFi",
+  "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "ReDeFi",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+   {
+      "chainId": 22259,
+      "address": "0x5c7C0490562764abee0715Eb88804eE2073E055a",
+      "name": "Token A",
+      "symbol": "TA",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+    {
+      "chainId": 22259,
+      "address": "0xA54D8Fc8670665e2CDC9adbd502E53e904B622Ae",
+      "name": "Token B",
+      "symbol": "TB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    },
+     {
+      "chainId": 22259,
+      "address": "0xCCB52Bf6B7C3130f9DB2113d4A74D6906f113A11",
+      "name": "Wrapped BAX",
+      "symbol": "WBAX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+    }
+    
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
